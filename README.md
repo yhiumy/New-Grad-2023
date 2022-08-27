@@ -1,6 +1,7 @@
 # 2023 Tech New Grad Applications
 
 **Contribute by making a pull request!**
+<!-- Notes should include the position the link directs to. PRs without notes and/or not properly formatted WILL NOT be accepted! -->
 
 ## The List
 
