@@ -114,3 +114,6 @@
 | [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4037926005) | San Francisco, CA | Software Engineer - New Grad |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
+| [Whatnot](https://boards.greenhouse.io/whatnot/jobs/4309462004) | US Remote | Software Engineer - New Grad |
+| [Zscaler](https://jobs.smartrecruiters.com/Zscaler/743999839821324-cloud-operations-engineer-junior-new-grad-san-jose-ca) | San Jose, CA | **US Citizens Only** Cloud Operations Engineer (Junior/New Grad) |
+| [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (Spring/Summer 2023) |
