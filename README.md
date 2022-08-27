@@ -23,7 +23,7 @@
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles |
 | ~~Indeed~~ | ~~Remote~~ | ~~Closed~~ |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate |
-| [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
+| ~~Virtu Financial~~ | ~~New York, NY~~ | ~~Closed~~ |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer |
 | ~~Philadelphia Phillies~~ | ~~Philadelphia, PA~~ | ~~Closed~~ |
 | ~~Caterpillar~~ | ~~Champaign, IL~~ | ~~Closed~~ |
