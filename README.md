@@ -1,4 +1,4 @@
-# 2023 New Grad Applications
+# 2023 Tech New Grad Applications
 
 **Contribute by making a pull request!**
 
