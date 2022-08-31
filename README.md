@@ -90,7 +90,7 @@
 | [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | **No Visa Sponsorship** Entry-Level Software Engineering Rotational Program |  
 [Twitch](https://www.twitch.tv/jobs/en/careers/intern-new-grad/) | San Fransisco, CA | **[Systems Development Engineer](https://www.twitch.tv/jobs/en/careers/6269594002/)** and **[UX Designer](https://www.twitch.tv/jobs/en/careers/6269585002/) ONLY** |
 | [ThoughtSpot](https://www.thoughtspot.com/job/4496761?gh_jid=4496761) | US Remote | Software Engineer (New Grad) |
-| [National Instruments (NI)](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5936?utm_medium=jobshare&utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineer - New Graduate. NO petition for H-1B status from student visas for this position.  |
+| ~~National Instruments (NI)~~ | ~~Austin, TX~~ | ~~Closed~~  |
 | [Amdocs](https://jobs.amdocs.com/job/Champaign-Software-Engineer-New-Grad-IL/914631400/) | Champaign Illinois | Software Engineer - New Grad | 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3081) | Atlanta, GA | 2023 Software Engineer Development Program |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/BizOps-Engineer---Mastercard-Launch-2023_R-174525-1?source=Indeed) | O'Fallon, MO | BizOps Engineer - Mastercard Launch 2023 |
@@ -118,3 +118,6 @@
 | [Whatnot](https://boards.greenhouse.io/whatnot/jobs/4309462004) | US Remote | Software Engineer - New Grad |
 | [Zscaler](https://jobs.smartrecruiters.com/Zscaler/743999839821324-cloud-operations-engineer-junior-new-grad-san-jose-ca) | San Jose, CA | **US Citizens Only** Cloud Operations Engineer (Junior/New Grad) |
 | [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/4462848) | Mountain View, CA | Software Engineer Grad (Spring/Summer 2023) |
+| [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
+| [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
+| [Scale AI](https://scale.com/careers/4037926005) | San Francisco | Software Engineer |
