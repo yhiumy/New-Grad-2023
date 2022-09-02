@@ -121,3 +121,4 @@
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Scale AI](https://scale.com/careers/4037926005) | San Francisco | Software Engineer |
+| [Visa](https://jobs.smartrecruiters.com/Visa/743999848895581-software-engineer-undergrad-new-college-grad-multiple-locations-2023?source=Linkedin)| Austin, TX| Software Engineer - Undergrad New College Grad
