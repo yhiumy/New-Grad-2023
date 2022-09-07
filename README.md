@@ -121,4 +121,6 @@
 | [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
 | [Scale AI](https://scale.com/careers/4037926005) | San Francisco | Software Engineer |
-| [Visa](https://jobs.smartrecruiters.com/Visa/743999848895581-software-engineer-undergrad-new-college-grad-multiple-locations-2023?source=Linkedin)| Austin, TX| Software Engineer - Undergrad New College Grad
+| [Visa](https://jobs.smartrecruiters.com/Visa/743999848895581-software-engineer-undergrad-new-college-grad-multiple-locations-2023?source=Linkedin)| Austin, TX| Software Engineer - Undergrad New College Grad |
+| [TikTok](https://careers.tiktok.com/position?keywords=&category=&location=CT_203%2CCT_75%2CCT_222%2CCT_104%2CCT_223%2CCT_221%2CCT_247%2CCT_157%2CCT_243%2CCT_114%2CCT_94&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=) | Mountain View, Santa Clara, SF, Seattle, LA, and NYC | SWE, MLE, DS, SRE, and Researcher |
+| [AT&T](https://www.att.jobs/search-jobs?orgIds=117&acm=61644) | US | **No Visa Sponsorship** SWE, DA, Network, and Technical Business Manager
