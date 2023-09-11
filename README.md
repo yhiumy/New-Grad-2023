@@ -14,7 +14,7 @@
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | ~~Sofi~~ | ~~Seattle, San Francisco, Murrah~~ | ~~Closed~~ |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
-| [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
+| [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | ~~Closed~~ |
 | ~~Sunshine~~ | ~~Palo Alto, CA~~ | ~~Closed~~ | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | ~~Raytheon Technologies~~ | ~~Sterling, VA~~ | ~~Closed~~ |
@@ -43,7 +43,7 @@
 | ~~Otter.ai~~| ~~Mountain View, CA~~ | ~~Closed~~ |
 | [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s)  | Natick, MA | Multiple Openings - Engineering Development Group |
 | [Vanta](https://boards.greenhouse.io/vanta/jobs/5745472002)  | New York, San Francisco | Software Engineer, New Grad |
-| [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023), [Frontend](https://jobs.lever.co/verkada/dfcab784-b82e-4bcc-9949-3cff41a5084e)
+| [Verkada](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)  | San Mateo, CA | ~~Closed~~
 | ~~Credit Suisse~~| ~~New York, NY; Raleigh, NC~~  | ~~Closed~~ |
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
